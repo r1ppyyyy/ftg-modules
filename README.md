@@ -1,2 +1,2 @@
 # ftg-modules
-FTG modules
+FTG Modules for GeekTG/Friendly-Telegram
